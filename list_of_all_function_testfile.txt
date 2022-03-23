@@ -1,0 +1,27 @@
+list of all command.............
+01. "cls", 
+02. "Abubakar Atiq", Deactivated
+03. "ABUBAKAR ATIQ", Deactivated
+04. "A.ATIQ", Deactivated
+05.  "a.atiq",Deactivated
+06. "A.atiq", Deactivated
+07. "cmd",
+09. "--version",
+10. "--ver",
+11. "--VERSION",
+12. "--VER",
+13. "--v", 
+14. "--V",
+15. "--help",
+16. "--HELP", 
+17. "--Help",
+18. "--h",
+19. "--H",
+20. "--webhelp",
+21. "--WEBHELP",
+22. "--WH", 
+23. "--wh", 
+24. "py", 
+25. "PY",
+26. "python",
+27. "PYTHON"
